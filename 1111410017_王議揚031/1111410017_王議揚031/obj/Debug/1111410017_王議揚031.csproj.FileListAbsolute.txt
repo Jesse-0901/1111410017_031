@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\bin\Debug\1111410017_王議揚031.exe.config
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\bin\Debug\1111410017_王議揚031.exe
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\bin\Debug\1111410017_王議揚031.pdb
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\obj\Debug\1111410017_王議揚031.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\obj\Debug\1111410017_王議揚031.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\obj\Debug\1111410017_王議揚031.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\obj\Debug\1111410017_王議揚031.exe
+C:\Users\user\source\repos\1111410017_王議揚031\1111410017_王議揚031\obj\Debug\1111410017_王議揚031.pdb
